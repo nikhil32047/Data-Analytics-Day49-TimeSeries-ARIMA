@@ -1,0 +1,15 @@
+🔑 Topics for Day 49
+
+1)Time Series Forecasting with ARIMA – Introduction to ARIMA models and their components (p, d, q).
+
+
+2)Seasonality & Trends in Time Series – Identifying recurring seasonal patterns and long-term trends.
+
+
+3)Stationarity & Differencing – Why stationarity matters and how differencing helps.
+
+
+4)Model Evaluation (AIC, BIC, RMSE) – Key metrics to evaluate forecasting accuracy.
+
+
+5)Case Study: Forecasting Sales for a Retail Store – Hands-on application of ARIMA for real-world prediction.
